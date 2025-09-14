@@ -6,3 +6,4 @@ def vowel_positions_only(s):
 text = "Hello World"
 result = vowel_positions_only(text)
 print("Only vowel positions:", result)
+
